@@ -1,5 +1,5 @@
 <p align="center">
-<img src="cover.jpeg" width="500" />
+<img src="gcover.jpeg" width="500" />
 </p>
 
 - 👋 Hi, I’m @LCTy-Lab
