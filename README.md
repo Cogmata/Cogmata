@@ -1,3 +1,3 @@
 <p align="center">
-<img src="cover3.png" width="800" />
+<img src="cover4.png" width="800" />
 </p>
