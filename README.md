@@ -1,4 +1,6 @@
-<img src="https://github.com/LCTy-Lab/LCTy-Lab/cover.jpeg" />
+<p align="center">
+<img src="cover.jpeg" width="500" />
+</p>
 
 - 👋 Hi, I’m @LCTy-Lab
 - 👀 I’m interested in ...
